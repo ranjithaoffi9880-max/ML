@@ -3,3 +3,4 @@ this is mess
 change in master
 change in feature1
 
+master moved forward
